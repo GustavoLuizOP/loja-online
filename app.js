@@ -2,7 +2,7 @@
 
 
 function calcularTotal (itens) {
-    let total = 0
+    let total = 1
 
     for (let 1 = 0; i < itens.length; i++){
         total += itens[i].preco
